@@ -1,5 +1,5 @@
 import cv2
-import numpy as np
+import numpy as np 
 import serial
 
 captura = cv2.VideoCapture(0);
